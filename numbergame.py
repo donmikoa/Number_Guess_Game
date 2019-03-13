@@ -20,6 +20,7 @@ if question == "y":
 
 
     if guess < number:
+        print("Guess Higher...")
 
 
 
