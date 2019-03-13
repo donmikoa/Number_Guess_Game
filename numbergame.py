@@ -16,6 +16,11 @@ if question == "y":
     print("I'm thinking of a number between 1 and 10")
     guess = int(input("Guess the number:"))
     if guess > number:
-        print ("Guess Lower...")
+        print("Guess Lower...")
+
+
+    if guess < number:
+
+
 
 
