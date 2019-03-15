@@ -18,9 +18,9 @@ if question == "y":
     if guess > number:
         print("Guess Lower...")
 
-
-    if guess < number:
+if guess < number:
         print("Guess Higher...")
+
 
 
 
