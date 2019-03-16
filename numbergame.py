@@ -22,8 +22,7 @@ if guess < number:
         print("Guess Higher...")
 while guess != number:
     tries += 1
-    guess = int(input("Try again..."))
-
+    guess = int(input("Try again...")
 
 
 
