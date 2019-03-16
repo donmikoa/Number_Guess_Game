@@ -20,6 +20,9 @@ if question == "y":
 
 if guess < number:
         print("Guess Higher...")
+while guess != number:
+    tries += 1
+
 
 
 
