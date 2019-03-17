@@ -23,6 +23,9 @@ if guess < number:
 while guess != number:
     tries += 1
     guess = int(input("Try again..."))
+if guess == number:
+
+
 
 
 
