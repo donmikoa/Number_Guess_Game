@@ -9,7 +9,7 @@ print("Hi", user_name + ".",)
 
 question = input("Would you like to play a game? [Y/N]")
 if question == "n":
-    print("Have a nice day")
+    print("Oh.. okay, have a nice day")
 
 
 if question == "y":
