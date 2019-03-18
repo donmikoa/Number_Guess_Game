@@ -25,6 +25,8 @@ while guess != number:
     guess = int(input("Try again..."))
 if guess == number:
     print("You win, the number was", number,
+          "and you had", tries, "tries!")
+
 
 
 
